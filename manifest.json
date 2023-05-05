@@ -12,6 +12,6 @@
   "action": {},
   "permissions": ["scripting", "activeTab"],
   "background": {
-    "service_worker": "script/script.js"
+    "service_worker": "script/worker.js"
   }
 }
