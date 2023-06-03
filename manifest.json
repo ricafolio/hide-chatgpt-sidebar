@@ -1,6 +1,6 @@
 {
   "name": "Hide ChatGPT Sidebar",
-  "version": "1.0.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "description": "Hide ChatGPT Sidebar is a lightweight browser extension that lets you quickly show or hide chatgpt's sidebar for improved focus.",
   "icons": {
