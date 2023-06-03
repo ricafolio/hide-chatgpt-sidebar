@@ -2,10 +2,9 @@
 Hide ChatGPT Sidebar is a lightweight browser extension that lets you quickly show or hide chatgpt's sidebar for improved focus.
 
 ## Installation
-You can install this extension from the following stores:
+You can install this extension via:
 
-- [Chrome Web Store]()
-- [Microsoft Edge Add-ons]()
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/hide-chatgpt-sidebar/pgpgbilginopbmeoccggifljlmgehpek)
 
 ## How to Use
 To use the extension, simply click on the extension icon located in the top right corner of your browser window. This will toggle the sidebar on and off, and you'll see a status indicator showing whether it's currently enabled or disabled.
